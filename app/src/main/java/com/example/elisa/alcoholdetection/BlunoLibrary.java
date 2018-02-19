@@ -29,11 +29,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 
-/**
- * Created by elisa on 12/02/18.
- */
-
-public abstract  class BlunoLibrary  extends Activity {
+public abstract  class BlunoLibrary  extends Activity{
 
     private Context mainContext=this;
 

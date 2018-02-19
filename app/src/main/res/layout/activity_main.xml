@@ -27,7 +27,6 @@
             android:textSize="10sp"
             android:layout_below="@+id/editText2"
             android:layout_alignStart="@+id/editText2"
-            android:layout_alignEnd="@+id/serialSendText"
             android:layout_alignParentBottom="true" />
     </ScrollView>
 
