@@ -20,8 +20,7 @@ public class MainActivity  extends BlunoLibrary {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        onCreateProcess();														//onCreate Process by BlunoLibrary
-
+        onCreateProcess(); //onCreate Process by BlunoLibrary
 
         serialBegin(115200);													//set the Uart Baudrate on BLE chip to 115200
 
